@@ -48,5 +48,4 @@
     // cantidad máxima de clases por estudiante - max classes per student
     const maxClassesPerStudent = 6;
 
-
 })();
