@@ -4,8 +4,9 @@ Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios 
 
 Contenido:
 
-1. Nombres pronunciables y expresivos.
-2. Nombres según el tipo de dato.
+1. Nombres pronunciables y expresivos
+2. Nombres según el tipo de dato
+3. Nombres de funciones, argumentos y parámetros
 
 Clonar o descargar el proyecto y luego:
 
