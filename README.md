@@ -7,6 +7,8 @@ Contenido:
 1. Nombres pronunciables y expresivos
 2. Nombres según el tipo de dato
 3. Nombres de funciones, argumentos y parámetros
+4. Refactorizando funciones
+5. Principio DRY
 
 Clonar o descargar el proyecto y luego:
 
