@@ -9,6 +9,7 @@ Contenido:
 3. Nombres de funciones, argumentos y parámetros
 4. Refactorizando funciones
 5. Principio DRY
+6. Introducción a las clases en TypeScript
 
 Clonar o descargar el proyecto y luego:
 
