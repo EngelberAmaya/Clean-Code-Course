@@ -10,6 +10,8 @@ Contenido:
 4. Refactorizando funciones
 5. Principio DRY
 6. Introducción a las clases en TypeScript
+7. Herencia - Problemática
+8. Objetos como propiedades
 
 Clonar o descargar el proyecto y luego:
 
