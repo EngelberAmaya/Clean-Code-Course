@@ -12,6 +12,8 @@ Contenido:
 6. Introducción a las clases en TypeScript
 7. Herencia - Problemática
 8. Objetos como propiedades
+9. Principio de responsabilidad única con ejercicio
+10. Uniformidad en el proyecto
 
 Clonar o descargar el proyecto y luego:
 
