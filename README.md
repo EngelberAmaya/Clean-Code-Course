@@ -5,6 +5,7 @@ Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios 
 Contenido:
 
 1. CodeSmells - STUPID (Singleton)
+2. Bajo acoplamiento y alta cohesión
 
 Clonar o descargar el proyecto y luego:
 
