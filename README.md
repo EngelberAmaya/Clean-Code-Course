@@ -4,8 +4,18 @@ Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios 
 
 Contenido:
 
-1. CodeSmells - STUPID (Singleton)
-2. Bajo acoplamiento y alta cohesión
+1. Nombres pronunciables y expresivos
+2. Nombres según el tipo de dato
+3. Nombres de funciones, argumentos y parámetros
+4. Refactorizando funciones
+5. Principio DRY
+6. Introducción a las clases en TypeScript
+7. Herencia - Problemática
+8. Objetos como propiedades
+9. Principio de responsabilidad única con ejercicio
+10. Uniformidad en el proyecto
+11. CodeSmells - STUPID (Singleton)
+12. Bajo acoplamiento y alta cohesión
 
 Clonar o descargar el proyecto y luego:
 
