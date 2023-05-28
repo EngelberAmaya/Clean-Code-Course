@@ -16,6 +16,7 @@ Contenido:
 10. Uniformidad en el proyecto
 11. CodeSmells - STUPID (Singleton)
 12. Bajo acoplamiento y alta cohesión
+13. Principios SOLID - SRP - Responsabilidad Única
 
 Clonar o descargar el proyecto y luego:
 
