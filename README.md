@@ -17,6 +17,7 @@ Contenido:
 11. CodeSmells - STUPID (Singleton)
 12. Bajo acoplamiento y alta cohesión
 13. Principios SOLID - SRP - Responsabilidad Única
+14. Principio de abierto y cerrado con ejemplo
 
 Clonar o descargar el proyecto y luego:
 
