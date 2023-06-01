@@ -19,6 +19,7 @@ Contenido:
 13. Principios SOLID - SRP - Responsabilidad Única
 14. Principio de abierto y cerrado con ejemplo
 15. Principio de Substitución de Liskov con ejemplo
+16. Principio de inversión de dependencias con ejemplo
 
 Clonar o descargar el proyecto y luego:
 
